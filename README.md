@@ -128,3 +128,7 @@ This is an application that provides a REST API for performing CRUD (Create, Rea
 - Postman will display the response from the server, including the status code and any response data or error messages.
 
 [![Demo GIF](delete-user.gif)](delete-user.gif)
+
+**This is the Mongo Database**
+
+[![Demo GIF](mongo-db.gif)](mongo-db.gif)
